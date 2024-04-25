@@ -96,7 +96,6 @@ body{
     background-color: var(--orange);
     border: none;
     border-radius: 21px;
-    
     transition: all ease-in-out .3s;
 
     font-size: 15px;
